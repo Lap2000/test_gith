@@ -1,6 +1,6 @@
 //helloodaspodkoas
 class Course {
   late String name;
-
-  Course(this.name);
+  late String year;
+  Course(this.name, this.year);
 }
